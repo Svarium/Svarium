@@ -69,7 +69,7 @@ Voy a empezar a subir **videos sobre código, tendencias de tecnología, IA y co
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)  
+[![LinkedIn](https://www.linkedin.com/in/ezequiel-mu%C3%B1oz-b33b0225a/)  
 **Email:** ezequiel.munoz.dev.js@gmail.com  
 
 ---
