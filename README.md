@@ -1,6 +1,6 @@
 # ¡Hola, soy Ezequiel! 👋
 
-![Banner](https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/banner.png)
+![Banner](https://raw.githubusercontent.com/Svarium/Svarium/main/Ezequiel-Muñoz-Fullstack-Node.png)
 
 ---
 
@@ -9,7 +9,7 @@
 Tengo más de **10 años de experiencia** en tecnología, trabajando en mantenimiento de hardware, redes, seguridad, administración de servidores y desarrollo de software.  
 
 Actualmente me dedico a:  
-- **Desarrollar aplicaciones web** con Node.js, React, Next.js y tecnologías relacionadas  
+- **Desarrollar aplicaciones web** con Node.js, React, Next.js, TypeScript y tecnologías relacionadas  
 - **Mentorear a futuros programadores** en [Digital House](https://www.digitalhouse.com/) y [RollingCode School](https://rollingcodeschool.com/)  
 
 Siempre me interesó entender **cómo funcionan las cosas** y encontrar maneras de hacerlas más eficientes.  
@@ -23,16 +23,21 @@ Este repositorio es mi espacio para:
 
 ## 🛠️ Tecnologías
 
+### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white)
 
+### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Data & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -42,8 +47,8 @@ Este repositorio es mi espacio para:
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Svarium&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svarium&layout=compact&theme=tokyonight)
 
 ---
 
