@@ -1,16 +1,16 @@
-# ¡Hola, soy Ezequiel! 👋
+# ¡Hola, soy Ezequiel! 🤖
 
 ![Banner](https://raw.githubusercontent.com/Svarium/Svarium/main/Ezequiel-Muñoz-Fullstack-Node.png)
 
 ---
 
-## 🙋 Sobre mí
+## 💻 Sobre mí
 
 Tengo más de **10 años de experiencia** en tecnología, trabajando en mantenimiento de hardware, redes, seguridad, administración de servidores y desarrollo de software.  
 
 Actualmente me dedico a:  
 - **Desarrollar aplicaciones web** con Node.js, React, Next.js, TypeScript y tecnologías relacionadas  
-- **Mentorear a futuros programadores** en [Digital House](https://www.digitalhouse.com/) y [RollingCode School](https://rollingcodeschool.com/)  
+- **Mentorear a futuros programadores** en [Digital House](https://www.digitalhouse.com/ar?utm_source=google&utm_medium=paid_search&utm_campaign=always_on&utm_term=institutional&utm_content=brand_awareness-search_all-691613269662-brandkws-awareness-home-ar&gclid=CjwKCAjw1ozEBhAdEiwAn9qbzSu2_31yy8v0OuME1gMqVZS75fhjixN4O1mX6cmhUm79mTgo_1QcQRoC1ZIQAvD_BwE) y [RollingCode School](https://web.rollingcodeschool.com/)  
 
 Siempre me interesó entender **cómo funcionan las cosas** y encontrar maneras de hacerlas más eficientes.  
 Este repositorio es mi espacio para:  
@@ -45,6 +45,14 @@ Este repositorio es mi espacio para:
 
 ---
 
+## 🧩 Experiencia destacada
+
+- **Mentor de programación** en [Digital House](https://www.digitalhouse.com/)  
+- **Instructor Web** en [RollingCode School](https://rollingcodeschool.com/) 
+- **Desarrollador Web Fullstack con Node.js** en [Servicio Penitenciario Federal](https://www.argentina.gob.ar/servicio-penitenciario-federal)  
+
+---
+
 ## 📊 Estadísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Svarium&show_icons=true&theme=tokyonight)
@@ -54,15 +62,15 @@ Este repositorio es mi espacio para:
 
 ## 🎥 Próximamente...
 
-Estoy empezando a subir **videos sobre código, tendencias de tecnología, IA y consejos de empleabilidad**.  
-¡Pronto vas a verlos también por acá!  
+Voy a empezar a subir **videos sobre código, tendencias de tecnología, IA y consejos de empleabilidad**.  
+¡Pronto vas a verlos también por acá! 🚀 
 
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)  
-**Email:** tuemail@example.com  
+**Email:** ezequiel.munoz.dev.js@gmail.com  
 
 ---
 
