@@ -1,6 +1,6 @@
 # ¡Hola, soy Ezequiel! 🤖
 
-![Banner](https://raw.githubusercontent.com/Svarium/Svarium/main/Ezequiel-Muñoz-Fullstack-Node.png)
+![Banner](https://raw.githubusercontent.com/Svarium/Svarium/main/banner.jpeg)
 
 ---
 
